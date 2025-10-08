@@ -1,0 +1,5 @@
+Per configurare la VPN su Windows 11:
+1. Apri Impostazioni > Rete > VPN
+2. Clicca su "Aggiungi connessione"
+3. Inserisci indirizzo server, nome utente e password
+4. Salva e connettiti
